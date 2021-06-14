@@ -1,0 +1,405 @@
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\appsettings.Development.json
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\appsettings.json
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Many2Many.exe
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Many2Many.deps.json
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Many2Many.runtimeconfig.json
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Many2Many.runtimeconfig.dev.json
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Many2Many.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\ref\Many2Many.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Many2Many.pdb
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Humanizer.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.OpenApi.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Newtonsoft.Json.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\System.Runtime.Caching.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\obj\Debug\net5.0\Many2Many.csprojAssemblyReference.cache
+G:\Mindtree\Many2Many\Many2Many\Many2Many\obj\Debug\net5.0\Many2Many.GeneratedMSBuildEditorConfig.editorconfig
+G:\Mindtree\Many2Many\Many2Many\Many2Many\obj\Debug\net5.0\Many2Many.AssemblyInfoInputs.cache
+G:\Mindtree\Many2Many\Many2Many\Many2Many\obj\Debug\net5.0\Many2Many.AssemblyInfo.cs
+G:\Mindtree\Many2Many\Many2Many\Many2Many\obj\Debug\net5.0\Many2Many.csproj.CoreCompileInputs.cache
+G:\Mindtree\Many2Many\Many2Many\Many2Many\obj\Debug\net5.0\Many2Many.MvcApplicationPartsAssemblyInfo.cs
+G:\Mindtree\Many2Many\Many2Many\Many2Many\obj\Debug\net5.0\Many2Many.MvcApplicationPartsAssemblyInfo.cache
+G:\Mindtree\Many2Many\Many2Many\Many2Many\obj\Debug\net5.0\staticwebassets\Many2Many.StaticWebAssets.Manifest.cache
+G:\Mindtree\Many2Many\Many2Many\Many2Many\obj\Debug\net5.0\staticwebassets\Many2Many.StaticWebAssets.xml
+G:\Mindtree\Many2Many\Many2Many\Many2Many\obj\Debug\net5.0\scopedcss\bundle\Many2Many.styles.css
+G:\Mindtree\Many2Many\Many2Many\Many2Many\obj\Debug\net5.0\Many2Many.RazorTargetAssemblyInfo.cache
+G:\Mindtree\Many2Many\Many2Many\Many2Many\obj\Debug\net5.0\Many2Many.csproj.CopyComplete
+G:\Mindtree\Many2Many\Many2Many\Many2Many\obj\Debug\net5.0\Many2Many.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\obj\Debug\net5.0\ref\Many2Many.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\obj\Debug\net5.0\Many2Many.pdb
+G:\Mindtree\Many2Many\Many2Many\Many2Many\obj\Debug\net5.0\Many2Many.genruntimeconfig.cache
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\System.Composition.Convention.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\System.Composition.Hosting.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\System.Composition.Runtime.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\System.Composition.TypedParts.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+G:\Mindtree\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\appsettings.Development.json
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\appsettings.json
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Many2Many.exe
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Many2Many.deps.json
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Many2Many.runtimeconfig.json
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Many2Many.runtimeconfig.dev.json
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Many2Many.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\ref\Many2Many.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Many2Many.pdb
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Humanizer.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Many2Many\Many2Many\Many2Many\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Many2Many\Many2Many\Many2Many\obj\Debug\net5.0\Many2Many.csprojAssemblyReference.cache
+E:\Many2Many\Many2Many\Many2Many\obj\Debug\net5.0\Many2Many.GeneratedMSBuildEditorConfig.editorconfig
+E:\Many2Many\Many2Many\Many2Many\obj\Debug\net5.0\Many2Many.AssemblyInfoInputs.cache
+E:\Many2Many\Many2Many\Many2Many\obj\Debug\net5.0\Many2Many.AssemblyInfo.cs
+E:\Many2Many\Many2Many\Many2Many\obj\Debug\net5.0\Many2Many.csproj.CoreCompileInputs.cache
+E:\Many2Many\Many2Many\Many2Many\obj\Debug\net5.0\Many2Many.MvcApplicationPartsAssemblyInfo.cs
+E:\Many2Many\Many2Many\Many2Many\obj\Debug\net5.0\Many2Many.MvcApplicationPartsAssemblyInfo.cache
+E:\Many2Many\Many2Many\Many2Many\obj\Debug\net5.0\staticwebassets\Many2Many.StaticWebAssets.Manifest.cache
+E:\Many2Many\Many2Many\Many2Many\obj\Debug\net5.0\staticwebassets\Many2Many.StaticWebAssets.xml
+E:\Many2Many\Many2Many\Many2Many\obj\Debug\net5.0\scopedcss\bundle\Many2Many.styles.css
+E:\Many2Many\Many2Many\Many2Many\obj\Debug\net5.0\Many2Many.RazorTargetAssemblyInfo.cache
+E:\Many2Many\Many2Many\Many2Many\obj\Debug\net5.0\Many2Many.csproj.CopyComplete
+E:\Many2Many\Many2Many\Many2Many\obj\Debug\net5.0\Many2Many.dll
+E:\Many2Many\Many2Many\Many2Many\obj\Debug\net5.0\ref\Many2Many.dll
+E:\Many2Many\Many2Many\Many2Many\obj\Debug\net5.0\Many2Many.pdb
+E:\Many2Many\Many2Many\Many2Many\obj\Debug\net5.0\Many2Many.genruntimeconfig.cache
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\appsettings.Development.json
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\appsettings.json
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\Many2Many.exe
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\Many2Many.deps.json
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\Many2Many.runtimeconfig.json
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\Many2Many.runtimeconfig.dev.json
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\Many2Many.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\ref\Many2Many.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\Many2Many.pdb
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\Humanizer.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\obj\Debug\net5.0\Many2Many.csprojAssemblyReference.cache
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\obj\Debug\net5.0\Many2Many.GeneratedMSBuildEditorConfig.editorconfig
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\obj\Debug\net5.0\Many2Many.AssemblyInfoInputs.cache
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\obj\Debug\net5.0\Many2Many.AssemblyInfo.cs
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\obj\Debug\net5.0\Many2Many.csproj.CoreCompileInputs.cache
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\obj\Debug\net5.0\Many2Many.MvcApplicationPartsAssemblyInfo.cs
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\obj\Debug\net5.0\Many2Many.MvcApplicationPartsAssemblyInfo.cache
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\obj\Debug\net5.0\staticwebassets\Many2Many.StaticWebAssets.Manifest.cache
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\obj\Debug\net5.0\staticwebassets\Many2Many.StaticWebAssets.xml
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\obj\Debug\net5.0\scopedcss\bundle\Many2Many.styles.css
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\obj\Debug\net5.0\Many2Many.RazorTargetAssemblyInfo.cache
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\obj\Debug\net5.0\Many2Many.csproj.CopyComplete
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\obj\Debug\net5.0\Many2Many.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\obj\Debug\net5.0\ref\Many2Many.dll
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\obj\Debug\net5.0\Many2Many.pdb
+E:\WEEK3 &4_Capablities\Cap19_20_WEBAPI_Entity Framework\CodeFirst_Many_to_Many_directorFilm\Many2Many\obj\Debug\net5.0\Many2Many.genruntimeconfig.cache
